@@ -1,0 +1,62 @@
+[
+    {
+        "id" : 1,
+        "MartialArtName" : "Karate",
+        "Description" : "En japansk kampsport som fokuserar på slag, sparkar och blockeringar.",
+        "Link" : "https://sv.wikipedia.org/wiki/Karate"
+    },
+    {
+        "id" : 2,
+        "MartialArtName" : "Brazilian Jiu-Jitsu",
+        "Description" : "En brasiliansk kampsport med fokus på markkamp och submissions.",
+        "Link" : "https://sv.wikipedia.org/wiki/Brazilian_jiu-jitsu"
+    },
+    {
+        "id" : 3,
+        "MartialArtName" : "Muay Thai",
+        "Description" : "En thailändsk kampsport känd för sina kraftfulla slag, sparkar, knän och armbågar.",
+        "Link" : "https://sv.wikipedia.org/wiki/Muay_thai"
+    },
+    {
+        "id" : 4,
+        "MartialArtName" : "Judo",
+        "Description" : "En japansk kampsport med fokus på kast och kontroll på marken.",
+        "Link" : "https://sv.wikipedia.org/wiki/Judo"
+    },
+    {
+        "id" : 5,
+        "MartialArtName" : "Taekwondo",
+        "Description" : "En koreansk kampsport som betonar höga sparkar och snabba rörelser.",
+        "Link" : "https://sv.wikipedia.org/wiki/Taekwondo"
+    },
+    {
+        "id" : 6,
+        "MartialArtName" : "Krav Maga",
+        "Description" : "Ett israeliskt självförsvarssystem som kombinerar tekniker från flera kampsporter.",
+        "Link" : "https://sv.wikipedia.org/wiki/Krav_Maga"
+    },
+    {
+        "id" : 7,
+        "MartialArtName" : "Kung Fu",
+        "Description" : "En kinesisk kampsport med många olika stilar och tekniker.",
+        "Link" : "https://sv.wikipedia.org/wiki/Kung_fu"
+    },
+    {
+        "id" : 8,
+        "MartialArtName" : "Aikido",
+        "Description" : "En japansk kampsport som fokuserar på att använda motståndarens energi mot dem.",
+        "Link" : "https://sv.wikipedia.org/wiki/Aikido"
+    },
+    {
+        "id" : 9,
+        "MartialArtName" : "Sambo",
+        "Description" : "En rysk kampsport som kombinerar brottning och judo-liknande tekniker.",
+        "Link" : "https://sv.wikipedia.org/wiki/Sambo_(kampsport)"
+    },
+    {
+        "id" : 10,
+        "MartialArtName" : "Boxning",
+        "Description" : "En kampsport där deltagarna använder slag med händerna för att besegra sin motståndare.",
+        "Link" : "https://sv.wikipedia.org/wiki/Boxning"
+    }
+]
