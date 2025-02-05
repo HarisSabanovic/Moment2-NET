@@ -1,3 +1,16 @@
+@model IEnumerable<MyApp.Models.MartialArts>
 @{
     ViewData["Title"] = "Startsida";
 }
+
+<div id="card-container">
+
+    @foreach( var Art in Model) {
+         <div class="card">
+            <h1>@Art.MartialArtName</h1>
+            <p>@Art.Description</p>
+            <a href="@Art.Link" target="_blank">Läs mer</a>
+         </div>
+            
+    }
+</div>
