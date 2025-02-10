@@ -2,4 +2,18 @@
     ViewData["Title"] = "Lägg till";
 }
 
+
 <h1>Lägg till Kampsport</h1>
+
+<form asp-action="AddMartialArt" method="post">
+    <label for="MartialArtName">Kampsport</label>
+    <input type="text" id="MartialArtName" name="MartialArtName" required/>
+
+    <label for="Description">Beskrivning</label>
+    <textarea type="text" id="Description" name="Description" required></textarea>
+
+    <label for="Link">Länk</label>
+    <input type="text" id="Link" name="Link" required>
+
+    <button type="submit">Lägg till</button>
+</form>
